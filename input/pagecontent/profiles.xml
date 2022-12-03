@@ -63,5 +63,10 @@
 <td>http://hl7.org.nz/fhir/StructureDefinition/NzPractitionerRole</td>
 <td><p>PractitionerRole resource for use in NZ</p></td>
 </tr>
+<tr>
+<td><a href='StructureDefinition-NzRadiologyRequest.html'>NzRadiologyRequest</a></td>
+<td>http://hl7.org.nz/fhir/StructureDefinition/NzRadiologyRequest</td>
+<td><p>RadiologyRequest resource for use in NZ</p></td>
+</tr>
 </table>
 </div>
