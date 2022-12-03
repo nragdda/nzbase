@@ -3,13 +3,10 @@
 .DS_Store
 .DS_Store?
 Thumbs.db
-# /fsh-generated
+/fsh-generated
 /input-cache
 /output
 /template
 /temp
 /working
-
-
-
 *.bak
